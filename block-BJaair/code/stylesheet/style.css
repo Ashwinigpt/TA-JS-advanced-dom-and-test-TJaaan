@@ -4,6 +4,20 @@ h1{
     padding: 1rem;
     color: white;
 }
+ul li{
+   list-style: none; 
+}
+li{
+    border: 2px solid black;
+    text-align: center;
+    width: 40%;
+    margin: 2rem;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
 body{
     background-color: rgb(241,222,184);
 }
