@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(35,110,244);
+}
+h1{
+ text-transform: uppercase;
+ text-align: center;
+ color: white;
+}
+.add_items{
+    text-align: center;
+}
+input{
+    width: 25vw;
+    height: 8vh;
+    font-size: 1.2rem;
+    
+}
