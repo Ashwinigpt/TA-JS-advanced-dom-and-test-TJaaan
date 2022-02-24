@@ -1,6 +1,6 @@
 let root = document.querySelector('ul');
 
-let max = 3;
+let max = 4;
 let index = 0;
 
 function addQuotes (){
